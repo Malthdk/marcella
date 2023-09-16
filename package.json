@@ -1,0 +1,20 @@
+{
+  "name": "marcella",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/tailwind": "^5.0.0",
+    "@fontsource/chilanka": "^5.0.12",
+    "@fontsource/luckiest-guy": "^5.0.12",
+    "astro": "^3.0.13",
+    "pixi.js": "^7.2.4",
+    "tailwindcss": "^3.0.24"
+  }
+}
